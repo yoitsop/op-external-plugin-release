@@ -13,11 +13,13 @@ Keypress Spammer:
 - Message spammer: Configure a keybind to send a desired message upon keypress
 - Pile Spammer: Configure a keybind to send a message with your clans prefix + current targets username
 
-RSN-Hider
-- Set a custom RSN that is visible on your clients chat (Ported from RL-HUB)
 
 Player Indicators Extended:
 - An additional snipelist added to the default Player Indicators Extended plugin
+
+RSN-Hider
+- Set a custom RSN that is visible on your clients chat (Ported from RL-HUB)
+
 
 
 ![image](https://user-images.githubusercontent.com/51583993/111889976-995f9580-89bb-11eb-932b-a14dc9bba84c.png)
