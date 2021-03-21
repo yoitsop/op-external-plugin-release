@@ -21,4 +21,4 @@ Player Indicators Extended:
 
 
 ![image](https://user-images.githubusercontent.com/51583993/111889976-995f9580-89bb-11eb-932b-a14dc9bba84c.png)
-![image](https://user-images.githubusercontent.com/51583993/111890235-f0ff0080-89bd-11eb-8d1f-86706b8138fb.png)
+
