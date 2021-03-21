@@ -21,3 +21,4 @@ Player Indicators Extended:
 - An additional snipelist added to the default Player Indicators Extended plugin
 
 
+![image](https://user-images.githubusercontent.com/51583993/111889976-995f9580-89bb-11eb-932b-a14dc9bba84c.png)
