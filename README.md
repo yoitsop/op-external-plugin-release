@@ -5,7 +5,7 @@ PLUGINS
 Clan Wars Arena:
 
 - Displays a notifcation upon challenge request
-- Displays a timer with the remaining countdown until a challenge is accepted
+- Displays a timer with the remaining countdown until a round starts
 - Displays the N-Range/Mage count of current visible members in the CC
 
 Keypress Spammer:
