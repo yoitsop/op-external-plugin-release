@@ -11,8 +11,8 @@ Clan Wars Arena:
 
 Keypress Spammer:
 
-Message spammer - Configure a keybind to send a desired message upon keypress
-Pile Spammer - Configure a keybind to send a message with your clans prefix + current targets username
+- Message spammer: Configure a keybind to send a desired message upon keypress
+- Pile Spammer: Configure a keybind to send a message with your clans prefix + current targets username
 
 RSN-Hider
 - Set a custom RSN that is visible on your clients chat (Ported from RL-HUB)
