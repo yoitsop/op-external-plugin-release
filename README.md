@@ -16,6 +16,9 @@ Keypress Spammer:
 - Pile Spammer: Configure a keybind to send a message with your clans prefix + current targets username
 - Smaller Pile Names: Use the first four characters of a targets name for the pile spammer
 
+Staking:
+- Highlights weapons that are commonly used to scam in the opponents inventory when in the challenge menu
+- Notifies you upon duel request
 
 Player Indicators Extended:
 - An additional snipelist added to the default Player Indicators Extended plugin
