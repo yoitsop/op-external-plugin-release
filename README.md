@@ -8,7 +8,6 @@ Clan Wars Arena:
 - Displays a notifcation upon challenge request
 - Displays a timer with the remaining countdown until a round starts
 - Displays a timer of when you're able to use overheads when an opponent uses a dragon scimitar special attack
-- Displays the N-Range/Mage count of current visible members in the CC
 
 Keypress Spammer:
 
