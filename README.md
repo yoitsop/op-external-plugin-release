@@ -5,9 +5,9 @@ PLUGINS
 Clan Wars Arena:
 
 - Phoenix Necklace Break sound
-- Displays a notifcation upon challenge request
+- Challenge request notification
 - Displays a timer with the remaining countdown until a round starts
-- Displays a timer of when you're able to use overheads when an opponent uses a dragon scimitar special attack
+- Displays a coundown of when you'll be able to use overheads after an opponent uses a dragon scimitar special attack on you
 
 Keypress Spammer:
 
